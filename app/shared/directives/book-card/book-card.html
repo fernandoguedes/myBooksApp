@@ -11,7 +11,7 @@
     <div class="content">
       <h5 class="title is-5">{{book}}</h5>
       <h5 class="subtitle is-6">{{authors.join(', ')}}</h5>
-      <p>{{description | limitTo: 200 }}... <a href="#!/details/{{id}}">Ver Mais</a></p>
+      <p ng-bind-html="description | highlight: 'cannabis' : id"></p>
       <span class="tag is-dark" ng-if="categories" ng-repeat="category in categories">{{category}}</span>
       <span class="tag is-dark" ng-if="!categories">Sem Categoria</span>
       <span class="favorite">

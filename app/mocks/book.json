@@ -1,0 +1,92 @@
+{
+	"kind": "books#volume",
+	"id": "4pZlDQAAQBAJ",
+	"etag": "ZomIVdVBw7Y",
+	"selfLink": "https://www.googleapis.com/books/v1/volumes/4pZlDQAAQBAJ",
+	"volumeInfo": {
+		"title": "Understanding Digital Marketing",
+		"subtitle": "Marketing Strategies for Engaging the Digital Generation",
+		"authors": [
+			"Damian Ryan"
+		],
+		"publisher": "Kogan Page Publishers",
+		"publishedDate": "2016-11-03",
+		"description": "<p>The world of digital media is changing at a phenomenal pace. Constantly evolving technologies are transforming not just how we access our information but how we interact and communicate with one another on a global scale. <b><i>Understanding Digital Marketing</i></b> is a practical, no-nonsense guide to web-marketing, the rules of new media and researching the new generation of digital consumers. Clear, informative and entertaining, it covers key topics such as search marketing, social media, Google, mobile marketing, affiliate marketing, email marketing, performance marketing, customer engagement and digital marketing strategies. </p><p>One of the best-selling books in the industry, this fourth edition of <b><i>Understanding Digital Marketing </i></b>has been thoroughly revised with more information, fresh examples and case studies, and the latest developments in the industry. Complete with in-depth insider accounts of digital marketing successes from internationally recognised brands and digital marketing campaigns, it is essential reading for both practitioners and students alike.</p>",
+		"industryIdentifiers": [
+			{
+				"type": "ISBN_10",
+				"identifier": "0749478446"
+			},
+			{
+				"type": "ISBN_13",
+				"identifier": "9780749478445"
+			}
+		],
+		"readingModes": {
+			"text": true,
+			"image": true
+		},
+		"pageCount": 464,
+		"printedPageCount": 464,
+		"printType": "BOOK",
+		"categories": [
+			"Business & Economics / Marketing / General",
+			"Business & Economics / Advertising & Promotion",
+			"Business & Economics / Sales & Selling / General",
+			"Computers / Online Services",
+			"Business & Economics / Customer Relations"
+		],
+		"averageRating": 4.0,
+		"ratingsCount": 1,
+		"maturityRating": "NOT_MATURE",
+		"allowAnonLogging": true,
+		"contentVersion": "1.1.1.0.preview.3",
+		"panelizationSummary": {
+			"containsEpubBubbles": false,
+			"containsImageBubbles": false
+		},
+		"imageLinks": {
+			"smallThumbnail": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE717G1OBsdRQoQBuXSBpFnUY5wJtsRmfYTQ0PcXw8PujU2ivWjQ8c_-Eq7bYAYFci1ym1xD2YfdMGy1pjeqKjSCQiQp5isMMJh2ZsnpamIA-4afvGNKG9PFXAY8PBgaCpqSoCMGm&source=gbs_api",
+			"thumbnail": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70qvIJj2iGIsP9_HrnpgKYnJjn9R8wBciPsanFVo1h3l-RqUTg5GzeRJ1i5kN4VOQqaMWbvBa7kpNKJVv5btQjkvtzeWXp4k0Jiqt0C5C4Ra0KfQRIKIyFk6FWtKfuyym9iz3cb&source=gbs_api",
+			"small": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73q5uRb0IzkOFm4j273o-fpDUfV4L6DRa4_4-mF-0kvhlg93PGV0xRYs1B4FXqdKUFWGyKwYza4OE8DIz8kfKYML91x5oU31YcxCxkLKnDJuh-HFPXSh6dbk5fBppntvuUVkEHu&source=gbs_api",
+			"medium": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72O01Ddq20qyeN_oA3YM6_JW-7AYCrwsqoIzcNDagQqfUJVvq_xITv2RwBLDHGl94eUA4keP8f0t2jUd3vbsnpBfS0yNpFrVWOPkj1tfaVOktDbnos2IAlBywfbuwATnEvH6Ktm&source=gbs_api",
+			"large": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71GppYEi14rNlQiRq-4A9fMJlW7NifpUYQn4UVd6YXrWMQ_pTMP5q45xxfgEEtcTz0gatGBhMNieSzvUdtmYkPKxmrpgtnW8OrIhJ4JSvOsQzph4aDGhsv-wvB4OxFMz78kepSW&source=gbs_api",
+			"extraLarge": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73baHt3x2gdtpTuKARB6Fei9Bf4KCZrOHzZf3Bgfqokpa4kUmHASvPp02rzXY2fFL13vDUQfJUx6vumAvyY-yHWx7qhwNb-F3NDHGrEl2YMMmbACaYmEcp-f8yl4VXrwIisIHf2&source=gbs_api"
+		},
+		"language": "en",
+		"previewLink": "http://books.google.com.br/books?id=4pZlDQAAQBAJ&hl=&source=gbs_api",
+		"infoLink": "https://play.google.com/store/books/details?id=4pZlDQAAQBAJ&source=gbs_api",
+		"canonicalVolumeLink": "https://market.android.com/details?id=book-4pZlDQAAQBAJ"
+	},
+	"layerInfo": {
+		"layers": [
+			{
+				"layerId": "geo",
+				"volumeAnnotationsVersion": "2"
+			}
+		]
+	},
+	"saleInfo": {
+		"country": "BR",
+		"saleability": "NOT_FOR_SALE",
+		"isEbook": false
+	},
+	"accessInfo": {
+		"country": "BR",
+		"viewability": "PARTIAL",
+		"embeddable": true,
+		"publicDomain": false,
+		"textToSpeechPermission": "ALLOWED",
+		"epub": {
+			"isAvailable": true,
+			"acsTokenLink": "http://books.google.com.br/books/download/Understanding_Digital_Marketing-sample-epub.acsm?id=4pZlDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+		},
+		"pdf": {
+			"isAvailable": true,
+			"acsTokenLink": "http://books.google.com.br/books/download/Understanding_Digital_Marketing-sample-pdf.acsm?id=4pZlDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+		},
+		"webReaderLink": "http://play.google.com/books/reader?id=4pZlDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+		"accessViewStatus": "SAMPLE",
+		"quoteSharingAllowed": false
+	}
+}

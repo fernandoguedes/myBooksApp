@@ -1,0 +1,71 @@
+<div class="tabs is-toggle is-fullwidth">
+  <ul style="background: white;">
+    <li class="is-active tab-description" ng-click="toggleTab('tab-description')">
+      <a>
+        <span class="icon is-small"><i class="fa fa-commenting"></i></span>
+        <span>Descrição</span>
+      </a>
+    </li>
+    <li class="tab-identifiers" ng-click="toggleTab('tab-identifiers')">
+      <a>
+        <span class="icon is-small book-tab"><i class="fa fa-key"></i></span>
+        <span>Identificadores</span>
+      </a>
+    </li>
+    <li class="tab-images" ng-click="toggleTab('tab-images')">
+      <a>
+        <span class="icon is-small book-tab"><i class="fa fa-picture-o"></i></span>
+        <span>Imagens</span>
+      </a>
+    </li>
+    <li class="tab-download" ng-click="toggleTab('tab-download')">
+      <a>
+        <span class="icon is-small book-tab"><i class="fa fa-download"></i></span>
+        <span>Download</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="tabs-content" id="tab-description">
+  {{description}}
+</div>
+
+<div class="tabs-content" id="tab-identifiers">
+  <table class="table is-striped">
+    <tr ng-repeat="value in identifiers">
+      <td>{{value.type}}</td>
+      <td>{{value.identifier}}</td>
+    </tr>
+  </table>
+</div>
+
+<div class="tabs-content" id="tab-images">
+  <span ng-repeat="image in images">
+    <img class="image" src="{{image}}">
+    <br>
+  </p>
+</div>
+
+<div class="tabs-content" id="tab-download">
+  <a class="button" ng-if="download.epub.isAvailable" href="{{download.epub.acsTokenLink}}" target="_blank">
+      <span class="icon is-small">
+        <i class="fa fa-file-text-o"></i>
+      </span>
+      <span>Fazer Download em ePub</span>
+    </a>
+
+    <a class="button" ng-if="download.pdf.isAvailable" href="{{download.pdf.acsTokenLink}}" target="_blank">
+      <span class="icon is-small">
+        <i class="fa fa-file-pdf-o"></i>
+      </span>
+      <span>Fazer Download em PDF</span>
+    </a>
+
+    <a class="button" ng-if="download.webReaderLink" href="{{download.webReaderLink}}" target="_blank">
+      <span class="icon is-small">
+        <i class="fa fa-tablet"></i>
+      </span>
+      <span>Visualizar no WebReader</span>
+    </a>
+</div>

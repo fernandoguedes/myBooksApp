@@ -1,0 +1,26 @@
+<div class="card" ng-init="getFavorite()">
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img src="{{image}}" alt="">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media-content">
+      <p class="title is-4"></p>
+    </div>
+    <div class="content">
+      <h5 class="title is-5">{{book}}</h5>
+      <h5 class="subtitle is-6">{{authors.join(', ')}}</h5>
+      <p ng-bind-html="description | highlight: 'cannabis' : id"></p>
+      <span class="tag is-dark" ng-if="categories" ng-repeat="category in categories">{{category}}</span>
+      <span class="tag is-dark" ng-if="!categories">Sem Categoria</span>
+      <span class="favorite">
+        <span class="icon" ng-click="addFavorite()" ng-if="!isFavorite"><i class="fa fa-heart-o"></i></span>
+        <span class="icon" ng-click="addFavorite()" ng-if="isFavorite"><i class="fa fa-heart"></i></span>
+      </span>
+    </div>
+  </div>
+  <footer class="card-footer">
+    <a href="#!/details/{{id}}" class="card-footer-item">Detalhes</a>
+  </footer>
+</div>

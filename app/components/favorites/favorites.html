@@ -1,0 +1,14 @@
+<div class="container" ng-init="favorites.getFavorites()">
+  <div class="columns is-multiline">
+    <div class="column is-4"
+      ng-repeat="book in favorites.books"
+      book-card
+      authors="book.authors"
+      categories="book.categories"
+      image="book.image"
+      book="book.book"
+      description="book.description"
+      id="book.id">
+    </div>
+  </div>
+</div>

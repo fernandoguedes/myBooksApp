@@ -1,0 +1,819 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 476,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "4pZlDQAAQBAJ",
+			"etag": "L4bc/IuDNJI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/4pZlDQAAQBAJ",
+			"volumeInfo": {
+				"title": "Understanding Digital Marketing",
+				"subtitle": "Marketing Strategies for Engaging the Digital Generation",
+				"authors": [
+					"Damian Ryan"
+				],
+				"publisher": "Kogan Page Publishers",
+				"publishedDate": "2016-11-03",
+				"description": "The world of digital media is changing at a phenomenal pace. Constantly evolving technologies are transforming not just how we access our information but how we interact and communicate with one another on a global scale. Understanding Digital Marketing is a practical, no-nonsense guide to web-marketing, the rules of new media and researching the new generation of digital consumers. Clear, informative and entertaining, it covers key topics such as search marketing, social media, Google, mobile marketing, affiliate marketing, email marketing, performance marketing, customer engagement and digital marketing strategies. One of the best-selling books in the industry, this fourth edition of Understanding Digital Marketing has been thoroughly revised with more information, fresh examples and case studies, and the latest developments in the industry. Complete with in-depth insider accounts of digital marketing successes from internationally recognised brands and digital marketing campaigns, it is essential reading for both practitioners and students alike.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780749478445"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0749478446"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 464,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 4.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=4pZlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=4pZlDQAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=4pZlDQAAQBAJ&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Understanding_Digital_Marketing.html?hl=&id=4pZlDQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Understanding_Digital_Marketing-sample-epub.acsm?id=4pZlDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Understanding_Digital_Marketing-sample-pdf.acsm?id=4pZlDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=4pZlDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "One of the best-selling books in the industry, this fourth edition of Understanding Digital Marketing has been thoroughly revised with more information, fresh examples and case studies, and the latest developments in the industry."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Q8kDDgAAQBAJ",
+			"etag": "oa72pPg17hU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Q8kDDgAAQBAJ",
+			"volumeInfo": {
+				"title": "Multilingual Digital Marketing",
+				"subtitle": "Managing for Excellence in Online Marketing",
+				"authors": [
+					"Maria Johnsen"
+				],
+				"publisher": "Maria Johnsen",
+				"publishedDate": "2017-01-29",
+				"description": "For any online business that can sell its products globally, multilingual digital marketing will be a big part of their marketing and selling efforts. In 21st century the push to expand into new areas of the world will increase as the competition tightens. For businesses that are currently struggling because of the competition found in their home languages, it means an opening of new, large areas of interested customers who speak different languages. By tapping into new markets, a business may see its customer base skyrocket depending on how well they can advertise their products into these areas. There are several advantages that multilingual marketing offers businesses that are seeking new customers from parts of the world that speak a different language. The challenges are present, such as effective translation that appears natural, but the potential in 2017 is considerable. The first and foremost benefit is that your product is being introduced to an entirely new audience. If what you offer is unique, then you have a considerable opportunity to expand your business with little to no direct competition. However, even if you are marketing familiar products, you are most often facing less competition which makes it easier to sell. In previous editions one discussed about ecommerce and market leadership. In the fifth edition you will be taken to a new journey in online marketing from creating a successful business plan, sales strategies, multilingual website design, marketing strategies in foreign countries, multilingual social media marketing for businesses, politicians and celebrities and share of wallet strategies.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781542831994"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1542831997"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 412,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Q8kDDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Q8kDDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=Q8kDDgAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=2&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=Q8kDDgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-Q8kDDgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 172.03,
+					"currencyCode": "BRL"
+				},
+				"retailPrice": {
+					"amount": 172.03,
+					"currencyCode": "BRL"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=Q8kDDgAAQBAJ&rdid=book-Q8kDDgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 1.7203E8,
+							"currencyCode": "BRL"
+						},
+						"retailPrice": {
+							"amountInMicros": 1.7203E8,
+							"currencyCode": "BRL"
+						},
+						"giftable": true
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Multilingual_Digital_Marketing-sample-pdf.acsm?id=Q8kDDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Q8kDDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In the fifth edition you will be taken to a new journey in online marketing from creating a successful business plan, sales strategies, multilingual website design, marketing strategies in foreign countries, multilingual social media ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "a7IaDAAAQBAJ",
+			"etag": "OajlXpP3kOE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/a7IaDAAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Marketing Strategy",
+				"subtitle": "An Integrated Approach to Online Marketing",
+				"authors": [
+					"Simon Kingsnorth"
+				],
+				"publisher": "Kogan Page Publishers",
+				"publishedDate": "2016-05-03",
+				"description": "The modern marketer needs to learn how to employ strategic thinking alongside the use of digital media to deliver measurable and accountable business success. Digital Marketing Strategy covers the essential elements of achieving exactly this by guiding you through every step of creating your perfect digital marketing strategy. It contains analysis of the essential techniques and platforms of digital marketing including social media, content marketing, SEO, user experience, personalization, display advertising and CRM, as well as the broader aspects of implementation including planning, integration with overall company aims and presenting to decision makers. Simon Kingsnorth brings digital marketing strategy to life through best practice case studies, illustrations, checklists and summaries, to give you insightful and practical guidance. Rather than presenting a restrictive 'one size fits all' model, this book gives you the tools to tailor-make your own strategy according to your unique business needs and demonstrates how an integrated and holistic approach to marketing leads to greater success. Digital Marketing Strategy is also supported by a wealth of online resources, including budget and strategy templates, lecture slides and a bonus chapter.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780749474713"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0749474718"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 344,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=a7IaDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=a7IaDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=a7IaDAAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=3&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=a7IaDAAAQBAJ&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Digital_Marketing_Strategy.html?hl=&id=a7IaDAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Digital_Marketing_Strategy-sample-epub.acsm?id=a7IaDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Digital_Marketing_Strategy-sample-pdf.acsm?id=a7IaDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=a7IaDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Rather than presenting a restrictive &#39;one size fits all&#39; model, this book gives you the tools to tailor-make your own strategy according to your unique business needs and demonstrates how an integrated and holistic approach to marketing ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "whQWBAAAQBAJ",
+			"etag": "1rLEWcLuROM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/whQWBAAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Marketing",
+				"subtitle": "A Practical Approach",
+				"authors": [
+					"Alan Charlesworth"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2014-07-25",
+				"description": "Digital Marketing: A Practical Approach 2nd Edition is a step-by-step guide to marketing using the Internet. Concentrating on the operational and functional aspects of this dynamic subject, the book is packed with tactical advice and real-life examples from those leading the field to help you succeed. Written as an accessible guide to equip you for the digital element of any contemporary marketing role, Digital Marketing covers all the key topics including search engine optimization and social media marketing. With real-world case studies to illustrate digital marketing in practice and exercises to help you analyse, plan and execute effective strategies within the workplace, this practical resource will prepare you to undertake digital marketing across a variety of organizations. More than just a book, this complete package features an associated website at AlanCharlesworth.eu/DigitalMarketing which hosts the case studies for the book, offers further tips and advice and provides access to a wealth of extra material such as up-to-date references and web links. This new, second edition builds on the first edition’s success by addressing the key recent developments in digital marketing including an expanded section on social media marketing and an appreciation of the impact of mobile devices. Moreover, it’s been thoroughly updated throughout, with brand new cases and examples with an international range, all of which encourage the reader to quickly learn the practical applicability of the theory and practice of emarketing.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781135048877"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1135048878"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 366,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=whQWBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=whQWBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=whQWBAAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=4&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=whQWBAAAQBAJ&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Digital_Marketing.html?hl=&id=whQWBAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=whQWBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This new, second edition builds on the first edition’s success by addressing the key recent developments in digital marketing including an expanded section on social media marketing and an appreciation of the impact of mobile devices."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "mPbkCAo2PzwC",
+			"etag": "SgXZldbIL84",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/mPbkCAo2PzwC",
+			"volumeInfo": {
+				"title": "Commonsense Direct and Digital Marketing",
+				"authors": [
+					"Drayton Bird"
+				],
+				"publisher": "Kogan Page Publishers",
+				"publishedDate": "2007",
+				"description": "Drayton Bird's Commonsense Direct and Digital Marketing is not only seen as the authority on direct marketing execution but is also widely appreciated for its engaging, non-nonsense style. The latest edition takes the book into new territory -- the field of digital marketing. It gives the marketer the tools, techniques and structures needed to produce effective and profitable marketing across the direct marketing spectrum, from simple letter to focused web-based campaigns. For anyone involved in direct marketing, this book provides not just the structure for success but also an energizing insight into the techniques behind some of the world's most successful direct marketing campaigns.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0749447605"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780749447601"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 434,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=mPbkCAo2PzwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=mPbkCAo2PzwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=mPbkCAo2PzwC&printsec=frontcover&dq=digital+marketing&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=mPbkCAo2PzwC&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Commonsense_Direct_and_Digital_Marketing.html?hl=&id=mPbkCAo2PzwC"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/Commonsense_Direct_and_Digital_Marketing-sample-pdf.acsm?id=mPbkCAo2PzwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=mPbkCAo2PzwC&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "For anyone involved in direct marketing, from junior marketer to senior manager, this book provides not just the structure for success but also an energising insight into the techniques behind some of the world&#39;s most successful direct ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "H65epBLI1rwC",
+			"etag": "46Lbf9Z6J9U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/H65epBLI1rwC",
+			"volumeInfo": {
+				"title": "Digital Marketing Analytics",
+				"subtitle": "Making Sense of Consumer Data in a Digital World",
+				"authors": [
+					"Chuck Hemann",
+					"Ken Burbary"
+				],
+				"publisher": "Que Publishing",
+				"publishedDate": "2013-04-10",
+				"description": "Distill 100%–Usable Max-Profit Knowledge from Your Digital Data. Do It Now! Why hasn’t all that data delivered a whopping competitive advantage? Because you’ve barely begun to use it, that’s why! Good news: neither have your competitors. It’s hard! But digital marketing analytics is 100% doable, it offers colossal opportunities, and all of the data is accessible to you. Chuck Hemann and Ken Burbary will help you chop the problem down to size, solve every piece of the puzzle, and integrate a virtually frictionless system for moving from data to decision, action to results! Scope it out, pick your tools, learn to listen, get the metrics right, and then distill your digital data for maximum value for everything from R&D to CRM to social media marketing! • Prioritize—because you can’t measure, listen to, and analyze everything • Use analysis to craft experiences that profoundly reflect each customer’s needs, expectations, and behaviors • Measure real social media ROI: sales, leads, and customer satisfaction • Track the performance of all paid, earned, and owned social media channels • Leverage “listening data” way beyond PR and marketing: for strategic planning, product development, and HR • Start optimizing web and social content in real time • Implement advanced tools, processes, and algorithms for accurately measuring influence • Integrate paid and social data to drive more value from both • Make the most of surveys, focus groups, and offline research synergies • Focus new marketing and social media investments where they’ll deliver the most value Foreword by Scott Monty Global Head of Social Media, Ford Motor Company",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780133150926"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0133150925"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 384,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.4.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=H65epBLI1rwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=H65epBLI1rwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=H65epBLI1rwC&printsec=frontcover&dq=digital+marketing&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=H65epBLI1rwC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-H65epBLI1rwC"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 70.22,
+					"currencyCode": "BRL"
+				},
+				"retailPrice": {
+					"amount": 70.22,
+					"currencyCode": "BRL"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=H65epBLI1rwC&rdid=book-H65epBLI1rwC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7.022E7,
+							"currencyCode": "BRL"
+						},
+						"retailPrice": {
+							"amountInMicros": 7.022E7,
+							"currencyCode": "BRL"
+						},
+						"giftable": true
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=H65epBLI1rwC&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Because you’ve barely begun to use it, that’s why! Good news: neither have your competitors. It’s hard! But digital marketing analytics is 100% doable, it offers colossal opportunities, and all of the data is accessible to you."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "OKyb3Z-eF6cC",
+			"etag": "k+t97AkcW0Q",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/OKyb3Z-eF6cC",
+			"volumeInfo": {
+				"title": "Digital Marketing",
+				"subtitle": "Using New Technologies to Get Closer to Your Customers",
+				"authors": [
+					"Will Rowan"
+				],
+				"publisher": "Kogan Page Publishers",
+				"publishedDate": "2002",
+				"description": "* Redefines the role of marketing in a digital, networked marketplace",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0749436646"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780749436643"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 246,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=OKyb3Z-eF6cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=OKyb3Z-eF6cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=OKyb3Z-eF6cC&dq=digital+marketing&hl=&cd=7&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=OKyb3Z-eF6cC&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Digital_Marketing.html?hl=&id=OKyb3Z-eF6cC"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=OKyb3Z-eF6cC&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Digital Marketing demonstrates how to: reappraise the role of marketing in a digital marketplace; define the concepts that digital channels enable; and identify the customer-centric marketing goals of digital marketing."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "yMjTDQAAQBAJ",
+			"etag": "70EcKccG7d0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/yMjTDQAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Marketing For Dummies",
+				"authors": [
+					"Ryan Deiss",
+					"Russ Henneberry"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2017-01-17",
+				"description": "Does your digital marketing pack a punch? Written with the marketer's best interests in mind, this friendly, down-to-earth guide shows you how to use proven digital marketing strategies and tactics to expand the reach of your brand, increase audience engagement, and acquire and monetize customers. From current best practices in SEO and SEM to the latest ways to effectively use content marketing and influencer marketing—and everything in between—Digital Marketing For Dummies helps you get the most out of all your digital marketing efforts. What worked in digital marketing just a few years ago is quickly losing relevance as electronic platforms—and the people who use them—continue to evolve. So how do you keep afloat in this fast-paced and ultra-competitive environment? Don't sweat it! Digital Marketing For Dummies takes the guesswork out of marketing in the digital age, offering the latest tips and techniques for utilizing technology to get your product or services out to the masses. Whether you're looking to craft a killer campaign from scratch or just want to beef up your social media presence, you'll find everything you need to meet your business goals—and boost your bottom line. Develop an individually tailored digital marketing campaign Offer an effective lead magnet to convert visitors Keep your audience invested in your brand, products, and services Create a return path with frequent and strategic communication with your customers If you're ready to benefit from the latest and greatest digital marketing has to offer, this no-nonsense guide sets you up for success.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781119235590"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1119235596"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 360,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=yMjTDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=yMjTDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=yMjTDQAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=yMjTDQAAQBAJ&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Digital_Marketing_For_Dummies.html?hl=&id=yMjTDQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=yMjTDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "How can you keep up? Written for marketers and business owners, this book is sure to give you the competitive advantage you need."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Ax_aCQAAQBAJ",
+			"etag": "+z4QiCBHgD4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Ax_aCQAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Marketing",
+				"authors": [
+					"Sudhir Sreedharan"
+				],
+				"publisher": "Lulu.com",
+				"publishedDate": "2015-06-19",
+				"description": "Omni channel is not just a fancier name for multi channel. It represents a truly new methodology that is customer centric and non linear. It provides a seamless experience to the customer no matter the channel they interact with. Marketing today is more about outcomes than interactions. Outcomes are what omni channel marketing is all about, putting the customer at the center of the brand experience so that engagement turns into revenue and loyalty. There are major people, process, and technology challenges with moving from multi channel to omni channel. This requires a real strategic focus and commitment. In this day and age, there is a proliferation of channels and tactics and it is highly recommended that you, as a marketer, need to have a broad understanding of all of this. To learn more you need to understand channels to some level of detail before embarking upon omni channel personalization.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781329030015"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "132903001X"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 100,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.1.0.preview.1",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Ax_aCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Ax_aCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=Ax_aCQAAQBAJ&printsec=frontcover&dq=digital+marketing&hl=&cd=9&source=gbs_api",
+				"infoLink": "http://books.google.com.br/books?id=Ax_aCQAAQBAJ&dq=digital+marketing&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Digital_Marketing.html?hl=&id=Ax_aCQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Ax_aCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Omni channel is not just a fancier name for multi channel."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ka6Byqp4iEUC",
+			"etag": "87qXaTeWaqk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ka6Byqp4iEUC",
+			"volumeInfo": {
+				"title": "DigiMarketing",
+				"subtitle": "The Essential Guide to New Media and Digital Marketing",
+				"authors": [
+					"Kent Wertime",
+					"Ian Fenwick"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2011-12-19",
+				"description": "\"We are all DigiMarketers now - or we should be. The authors have for the first time provided a lucid, hype-free, business-based and practical guide to the new age of marketing: it is a kind of digital Baedeker, which should be on every businessman's book-shelf.\" —Miles Young, Chairman, Ogilvy & Mather Asia Pacific \"The digital frontier is now the center of our universe. As Kent Wertime and Ian Fenwick show, marketers must seize this digital opportunity to accelerate their market growth.\" —John A. Quelch, Senior Associate Dean and Lincoln Filene Professor of Business Administration, Harvard Business School \"Too many advertisers are stuck in the primordial soup when it comes to their digital marketing strategy. However, they need to evolve fast if they are to survive in a multi-channel landscape. This timely book acts like an Origin of the Species, steering hesitant brand owners through the complexities of the digital ecosystem. An impressive blend of academic theory, professional insight and practical advice.\" —Paul Kemp-Robertson, Co-founder & Editorial Director, Contagious www.contagiousmagazine.com \"DigiMarketing: The Essential Guide to New Marketing & Digital Media is a clear call for companies to evolve their marketing practice. This book is essential reading for anyone seeking a roadmap to the future of business.\" —Dipak C. Jain, Dean, Kellogg School of Management \"The rise of conversational media new forms of distribution - from blogs to mobile platforms - challenge traditional approaches to marketing, and require every business to have a transition plan. Kent Wertime and Ian Fenwick have written a book that is required reading for any marketers interested in successfully making that transition.\" —John Battelle, CEO and Founder, Federated Media Publishing and Author, The Search \"Kent Wertime and Ian Fenwick have written the definitive guide to marketing in the digital age. But Digimarketing does more than educate marketing professionals. It describes the new media landscape brilliantly, making it an essential read for anyone who hopes to understand the most important technological revolution of the past fifty years. I wore out three yellow highlighters before realizing that every sentence and every paragraph is worth committing to memory.\" —Norman Pearlstine, Former Editor-in-Chief, Time Inc. and Managing Editor, The Wall Street Journal, Senior Advisor, Telecommunications & Media, The Carlyle Group",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781118179123"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1118179129"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 350,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5.0,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.4.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ka6Byqp4iEUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ka6Byqp4iEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com.br/books?id=ka6Byqp4iEUC&printsec=frontcover&dq=digital+marketing&hl=&cd=10&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=ka6Byqp4iEUC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-ka6Byqp4iEUC"
+			},
+			"saleInfo": {
+				"country": "BR",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 59.3,
+					"currencyCode": "BRL"
+				},
+				"retailPrice": {
+					"amount": 59.3,
+					"currencyCode": "BRL"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=ka6Byqp4iEUC&rdid=book-ka6Byqp4iEUC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 5.93E7,
+							"currencyCode": "BRL"
+						},
+						"retailPrice": {
+							"amountInMicros": 5.93E7,
+							"currencyCode": "BRL"
+						},
+						"giftable": true
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "BR",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/DigiMarketing-sample-epub.acsm?id=ka6Byqp4iEUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com.br/books/download/DigiMarketing-sample-pdf.acsm?id=ka6Byqp4iEUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ka6Byqp4iEUC&hl=&printsec=frontcover&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book is essential reading for anyone seeking a roadmap to the future of business.&quot; —Dipak C. Jain, Dean, Kellogg School of Management &quot;The rise of conversational media new forms of distribution - from blogs to mobile platforms - ..."
+			}
+		}
+	]
+}

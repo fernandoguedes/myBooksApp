@@ -24,7 +24,7 @@ describe('detailsCtrl', function() {
     });
 
     it('Should get a book by id', function(done) {
-        http.expectGET('https://www.googleapis.com/books/v1/volumes/4pZlDQAAQBAJ').respond(200, mock);
+        http.expectGET(/.*?books\/v1\/volumes?.*/g).respond(200, mock);
 
         detailsCtrl.getBook('4pZlDQAAQBAJ');
 

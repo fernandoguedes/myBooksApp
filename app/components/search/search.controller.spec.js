@@ -26,7 +26,7 @@ describe('searchCtrl', function() {
     });
 
     it('Should make request to google api with digital marketing keywords', function(done) {
-        http.expectGET('https://www.googleapis.com/books/v1/volumes?q=digital marketing').respond(200, mock);
+        http.expectGET(/.*?books\/v1\/volumes?.*/g).respond(200, mock);
 
         searchCtrl.searchBook('digital marketing');
 

@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- node
+before_script:
+- chmod +x ./scripts/deployer.sh
+script:
+- npm run build:js
+after_success:
+- "./deploy-to-gh-pages.sh"
+env:
+  global:
+  - secure: xmKGTeYgNPGsrKegCL9k5w7c8LG/yKR7ilmDsKwNNX9fQkJyXsQngvipRl1I9mM0wkfILlxpr1D+5V/Lvucdi2v94s6Iw2kNY4Baet78XxmU2GybBKoEq16YsaPxIDta6Ko+Ez25A3UR0MHV5GFCJOKcOac7eo4ombZHAEJWBoLldohqJl6M8+ITbVmz7UHoiumlhk/xqJCWcv1pqAjr+h25LggDbkunmuQqIUc2R2ZItEeMFxC65j6T4m6MiHBhMMbTrhi//gyStpRwvjIBIXZJjZUB6ZI3J+RE8WonhRRNPWUcZ1lUlI7+L95a6+wl5UbAapq7SJVV2+eBw97Xl7g7bdwNucD1zwLu/ju6NOIB0t2XceK8FQbGDvv5KI7I1x37dWAunB3Qw5/pjB3rKV0Rmcsd0c1wcFeKuJm/KaGpt0U8Z7JCm1u8GjJ6ns1H8A2YsnhPjMGcjtGsxMLh0LPLXS9gbeXtXsr1D6miIFCo5FeTrAB1PxGfZkgGGQd6ObFUcEFcCqrMHZ3VzZRIRdHfvLwF1gXFPTBL4Ev0pFNklL+JiiuFO9Ciod3nU09SC9fcP4TYQH8AtcPxm9kyGiCkKhYZ7bkqo5BZQhopiSK50gmXjiC0dasDedyl0nVvpAil3mwiqk9F0hELPWonxrbG1qyaIK+HbvAbKsy+1Is=

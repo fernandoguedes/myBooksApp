@@ -13,3 +13,5 @@ O Angular como framework para o funcionamento da aplicação, o Bulma, framework
 Os favoritos, conforme sugerido foi desenvolvido utilizando `localStorage` com uma única chave e a manipulação de JSON em forma de string.
 
 O deploy é feito automaticamente via Travis, e os testes estão dentro de cada componente.
+
+Para executar o build do projeto, basta executar `npm run build:js`.
